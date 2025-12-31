@@ -2,7 +2,7 @@
   "name": "safe-redirect-manager",
   "description": "Easily and safely manage HTTP redirects.",
   "dependencies": {
-    "node-wp-i18n": "^1.0.4"
+    "node-wp-i18n": "^1.2.8"
   },
   "author": "10up",
   "repository": {
